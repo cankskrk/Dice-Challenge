@@ -8,4 +8,4 @@ I've created a learning repository to go with @angelabauer's Web Design Udemy cl
 
 <br>
 
-![Dice_2](images\diceChallenge2.png)
+![Dice_2](\images\diceChallenge2.png)
