@@ -9,5 +9,3 @@ I've created this project by going with Angela Yu's Web Design Udemy class. [Ude
 <br>
 
 ![Dice_2](https://github.com/cankskrk/DICE-CHALLENGE/blob/811d268b1ee8096de760fe86c0477c143fb83197/images/diceChallenge2.png)
-
-### You can play it on the link [Dice-Game](https://dice-challenge-78eac.web.app/)
